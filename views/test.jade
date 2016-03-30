@@ -1,0 +1,22 @@
+//extends layout
+
+//define_var
+//-var book={"name":"gudu", "price":99.99}
+
+#content
+  .block
+      input#bar.foo1.foo2
+      
+
+ul#books
+  li
+    a(href="#book-a") Book A
+  li
+    a(href="#book-b") Book B
+
+//p dump var book: #{book} #{book.name} #{book.price}
+
+
+h1 foo #{book}
+h2 "Name:" #{book.name}
+h3 "Price:" #{book.price}
