@@ -1,6 +1,5 @@
 # echo
 
 start a server
-come on ~~~ewew
-test cb private
-nimei
+bingo
+2016.04.01
